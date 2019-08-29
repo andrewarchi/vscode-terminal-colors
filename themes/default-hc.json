@@ -1,0 +1,27 @@
+// Colors sourced from vscode/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts:ansiColorMap
+{
+	"name": "High contrast default terminal",
+	"colors": {
+		"terminal.background": "#000000",
+		"terminal.foreground": "#ffffff",
+		"terminal.selectionBackground": "#ffffff80",
+		"terminal.border": "#6fc3df",
+
+		"terminal.ansiBlack": "#000000",
+		"terminal.ansiRed": "#cd0000",
+		"terminal.ansiGreen": "#00cd00",
+		"terminal.ansiYellow": "#cdcd00",
+		"terminal.ansiBlue": "#0000ee",
+		"terminal.ansiMagenta": "#cd00cd",
+		"terminal.ansiCyan": "#00cdcd",
+		"terminal.ansiWhite": "#e5e5e5",
+		"terminal.ansiBrightBlack": "#7f7f7f",
+		"terminal.ansiBrightRed": "#ff0000",
+		"terminal.ansiBrightGreen": "#00ff00",
+		"terminal.ansiBrightYellow": "#ffff00",
+		"terminal.ansiBrightBlue": "#5c5cff",
+		"terminal.ansiBrightMagenta": "#ff00ff",
+		"terminal.ansiBrightCyan": "#00ffff",
+		"terminal.ansiBrightWhite": "#ffffff"
+	}
+}
