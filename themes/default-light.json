@@ -1,5 +1,6 @@
 // Colors sourced from vscode/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts:ansiColorMap
 {
+	"$schema": "vscode://schemas/color-theme",
 	"name": "Light default terminal",
 	"colors": {
 		"terminal.background": "#fffffe",
