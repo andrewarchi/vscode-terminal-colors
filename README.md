@@ -1,10 +1,11 @@
-# VSCode Terminal Colors
+# VS Code Terminal Colors
 
 This project contains terminal color scheme files to customize the macOS
-Terminal to match the default Visual Studio Code color schemes. Included
-are VSCode theme files and macOS Terminal profile files. The profile
+Terminal and Windows Command Prompt to match the default Visual Studio
+Code color schemes. Included are VS Code theme files, macOS Terminal
+profile files, and ini files for Color Tool on Windows. The profile
 fonts are set to FiraCode, but that can be changed to Menlo to match
-the default VSCode font.
+the default VS Code font.
 
 ## Light+
 
