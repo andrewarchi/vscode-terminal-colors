@@ -7,13 +7,13 @@ profile files, and ini files for Color Tool on Windows. The profile
 fonts are set to FiraCode, but that can be changed to Menlo to match
 the default VS Code font.
 
-## Light+
+## Light+ (default light)
 
-![Light+ preview](images/light.png)
+![Light+ preview](images/default-light.png)
 
-## Dark+
+## Dark+ (default dark)
 
-![Dark+ preview](images/dark.png)
+![Dark+ preview](images/default-dark.png)
 
 ## High Contrast
 
