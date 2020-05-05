@@ -1,23 +1,29 @@
 # VS Code Terminal Colors
 
-This project contains terminal color scheme files to customize the macOS
-Terminal and Windows Command Prompt to match the default Visual Studio
-Code color schemes. Included are VS Code theme files, macOS Terminal
-profile files, ini files for Color Tool on Windows, and Mintty settings.
-The profile fonts are set to FiraCode, but that can be changed to Menlo
-to match the default VS Code font.
+This project contains color schemes to customize various terminals to
+match the Visual Studio Code default color schemes.
+
+Supported platforms:
+
+- macOS Terminal
+- mintty
+- Windows Command Prompt
+- Windows Terminal
+- VS Code theme
 
 Colors are sourced from `ansiColorMap` in
 [`terminalColorRegistry.ts`](https://github.com/microsoft/vscode/blob/master/src/vs/workbench/contrib/terminal/common/terminalColorRegistry.ts).
 
-## Light+ (default light)
+## Previews
 
-![Light+ preview](images/default-light.png)
+### Dark+ (default dark)
 
-## Dark+ (default dark)
+![Dark+ preview](images/vscode-default-dark.png)
 
-![Dark+ preview](images/default-dark.png)
+### Light+ (default light)
 
-## High Contrast
+![Light+ preview](images/vscode-default-light.png)
 
-![High Contrast preview](images/hc.png)
+### High Contrast
+
+![High Contrast preview](images/vscode-hc.png)
